@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/vegetableshop-main/static/css/main.74542f22.css",
+    "main.js": "/github.io/vegetableshop-main/static/js/main.482172c5.js",
+    "index.html": "/github.io/vegetableshop-main/index.html",
+    "main.74542f22.css.map": "/github.io/vegetableshop-main/static/css/main.74542f22.css.map",
+    "main.482172c5.js.map": "/github.io/vegetableshop-main/static/js/main.482172c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74542f22.css",
+    "static/js/main.482172c5.js"
+  ]
+}
